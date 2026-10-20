@@ -1,0 +1,6 @@
+DS2022 S3 practice notes
+
+- S3 stores objects, not files in folders.
+- Each object has a key (its name) and a value (its contents).
+- A key like data/notes.txt only looks like a folder path.
+- Buckets live in one region; bucket names are global.

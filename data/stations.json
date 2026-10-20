@@ -1,0 +1,6 @@
+[
+  {"station_id": "CVL01", "name": "Charlottesville Downtown", "lat": 38.0293, "lon": -78.4767, "elevation_m": 145},
+  {"station_id": "CVL02", "name": "Rivanna Reservoir", "lat": 38.0711, "lon": -78.4886, "elevation_m": 120},
+  {"station_id": "AFT01", "name": "Afton Mountain", "lat": 38.0329, "lon": -78.8589, "elevation_m": 580},
+  {"station_id": "RIC01", "name": "Richmond Airport", "lat": 37.5052, "lon": -77.3197, "elevation_m": 51}
+]

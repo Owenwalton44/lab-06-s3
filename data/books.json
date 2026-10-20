@@ -1,0 +1,10 @@
+{
+  "catalog": "ds2022-mock-library",
+  "updated": "2026-10-01",
+  "books": [
+    {"isbn": "978-0000000011", "title": "Clouds Over Data", "author": "A. Rivera", "year": 2019, "genres": ["technology", "essay"]},
+    {"isbn": "978-0000000028", "title": "The Bucket List", "author": "J. Chen", "year": 2021, "genres": ["fiction"]},
+    {"isbn": "978-0000000035", "title": "Keys and Values", "author": "M. Okafor", "year": 2017, "genres": ["technology"]},
+    {"isbn": "978-0000000042", "title": "Rivers of Virginia", "author": "S. Patel", "year": 2023, "genres": ["nature", "history"]}
+  ]
+}
