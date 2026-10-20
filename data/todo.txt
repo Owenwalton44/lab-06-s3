@@ -1,0 +1,6 @@
+[x] Start the Learner Lab
+[x] Paste AWS Details into ~/.aws/credentials
+[x] Create practice bucket
+[ ] Sync data/ from the course bucket
+[ ] Rename notes.txt with aws s3 mv
+[ ] Presign cloud.jpg and open it in the browser
